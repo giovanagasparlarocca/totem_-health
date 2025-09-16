@@ -99,7 +99,7 @@ Simulação do Totem (com botões, pois o Wokwi não identifica touch):
 
 para ver os dados da pulseira sendo salvos acesse:
 
-- 🎥 [Clique aqui para assistir no YouTube](https://youtu.be/7SdYCLk2rVk)
+- 🎥 [Clique aqui para assistir no YouTube](https://youtu.be/LEI4tAASEGI)
 
 
 
